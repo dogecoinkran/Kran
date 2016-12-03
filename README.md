@@ -1,0 +1,2 @@
+# Kran
+New dogecoin kran
